@@ -11,8 +11,6 @@
 
 **A comprehensive, user-friendly voltage and electrical calculator with both web and CLI interfaces**
 
-[Live Demo](#) · [Report Bug](#) · [Request Feature](#)
-
 </div>
 
 ---
