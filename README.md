@@ -129,51 +129,7 @@ The **Voltage Calculator** is a versatile electrical engineering tool designed t
 2. **Select calculation type** (1-8)
 3. **Enter required values** when prompted
 4. **View formatted results**
-
-#### Example Usage:
-
-```bash
-$ python voltage_calculator.py
-==================================================
-⚡ VOLTAGE CALCULATOR
-==================================================
-
-Choose what to calculate:
-1. Voltage (V = I × R)
-2. Current (I = V / R)
-3. Resistance (R = V / I)
-4. Voltage from Power (V = √(P × R))
-5. Current from Power (I = √(P / R))
-6. Power (P = V × I)
-7. Power from Voltage & Resistance (P = V² / R)
-8. Power from Current & Resistance (P = I² × R)
-
-Enter choice (1-8): 1
-Enter Current (I) in Amperes: 2
-Enter Resistance (R) in Ohms: 10
-
-✅ Voltage (V) = 20.0000 Volts
-```
-
-### Voltage Divider Calculator
-
-```bash
-$ python voltage_divider.py
-==================================================
-🔌 VOLTAGE DIVIDER CALCULATOR
-==================================================
-Enter Input Voltage (V_in): 12
-Enter R1 (Ohms): 1000
-Enter R2 (Ohms): 2000
-
-📊 Results:
-  Output Voltage (V_out) = 8.0000 V
-  Voltage across R1 = 4.0000 V
-  Voltage across R2 = 8.0000 V
-  Total Resistance = 3000.0000 Ω
-  Current = 0.004000 A
-```
-
+5. 
 ---
 
 ## 📐 Formulas Supported
