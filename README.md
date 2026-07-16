@@ -53,25 +53,7 @@ The **Voltage Calculator** is a versatile electrical engineering tool designed t
 
 ---
 
-## 🖥️ Screenshots
-
-### Web Interface
-<div align="center">
-  <img src="screenshots/web-interface.png" alt="Web Interface" width="600"/>
-  <br>
-  <em>Modern, responsive web calculator interface</em>
-</div>
-
-### Python CLI
-<div align="center">
-  <img src="screenshots/python-cli.png" alt="Python CLI" width="500"/>
-  <br>
-  <em>Command-line interface with interactive menu</em>
-</div>
-
----
-
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
