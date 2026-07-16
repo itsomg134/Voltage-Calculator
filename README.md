@@ -100,29 +100,6 @@ The **Voltage Calculator** is a versatile electrical engineering tool designed t
 
 ---
 
-## 📖 Usage Guide
-
-### Web Calculator
-
-1. **Select Calculation Type**:
-   - Voltage: V = I × R
-   - Current: I = V / R
-   - Resistance: R = V / I
-   - Voltage from Power: V = √(P × R)
-   - Current from Power: I = √(P / R)
-
-2. **Enter Values**:
-   - Input the required parameters
-   - Values can be integers or decimals
-
-3. **Click Calculate** or press **Enter**
-
-4. **View Results**:
-   - Result appears in the highlighted box
-   - Shows the calculated value with unit
-
-5. **Clear All** to reset fields
-
 ### Python CLI
 
 1. **Run the script**
@@ -132,29 +109,7 @@ The **Voltage Calculator** is a versatile electrical engineering tool designed t
 5. 
 ---
 
-## 📐 Formulas Supported
-
-| Calculation | Formula | Unit |
-|------------|---------|------|
-| **Ohm's Law** | | |
-| Voltage | V = I × R | Volts (V) |
-| Current | I = V / R | Amperes (A) |
-| Resistance | R = V / I | Ohms (Ω) |
-| **Power Formulas** | | |
-| Power (VI) | P = V × I | Watts (W) |
-| Power (V²R) | P = V² / R | Watts (W) |
-| Power (I²R) | P = I² × R | Watts (W) |
-| Voltage from Power | V = √(P × R) | Volts (V) |
-| Current from Power | I = √(P / R) | Amperes (A) |
-| **Voltage Divider** | | |
-| Output Voltage | V_out = V_in × (R₂ / (R₁ + R₂)) | Volts (V) |
-| **Resistance** | | |
-| Series | R_total = R₁ + R₂ + ... | Ohms (Ω) |
-| Parallel | 1/R_total = 1/R₁ + 1/R₂ + ... | Ohms (Ω) |
-
----
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place! Any contributions you make are **greatly appreciated**.
 
@@ -187,13 +142,13 @@ Contributions are what make the open-source community such an amazing place! Any
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📞 Contact
+## Contact
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
