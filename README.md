@@ -46,10 +46,10 @@ The **Voltage Calculator** is a versatile electrical engineering tool designed t
 - **Instant Results**: No page reloads needed
 
 ### Technical
-- 🐍 **Python CLI**: For terminal enthusiasts and automation
-- 🌐 **Pure HTML/CSS/JS**: No dependencies, runs offline
-- 🔒 **Client-Side**: All calculations done in browser (privacy-friendly)
-- 📊 **Precision**: Results displayed to 4 decimal places
+- **Python CLI**: For terminal enthusiasts and automation
+- **Pure HTML/CSS/JS**: No dependencies, runs offline
+- **Client-Side**: All calculations done in browser (privacy-friendly)
+- **Precision**: Results displayed to 4 decimal places
 
 ---
 
