@@ -40,12 +40,12 @@ The **Voltage Calculator** is a versatile electrical engineering tool designed t
 - **Series/Parallel Support**: Calculate total resistance and voltage drops
 
 ### User Experience
-- 🎨 **Modern UI**: Clean, responsive web interface with gradient design
-- 📱 **Mobile-Friendly**: Works on all devices
-- ⌨️ **Keyboard Support**: Enter key for quick calculations
-- 🔄 **Real-time Updates**: Dynamic formula display
-- 🧹 **Clear Function**: Easy reset of all fields
-- ⚡ **Instant Results**: No page reloads needed
+- **Modern UI**: Clean, responsive web interface with gradient design
+- **Mobile-Friendly**: Works on all devices
+- **Keyboard Support**: Enter key for quick calculations
+- **Real-time Updates**: Dynamic formula display
+- **Clear Function**: Easy reset of all fields
+- **Instant Results**: No page reloads needed
 
 ### Technical
 - 🐍 **Python CLI**: For terminal enthusiasts and automation
