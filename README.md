@@ -30,14 +30,14 @@ The **Voltage Calculator** is a versatile electrical engineering tool designed t
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Functionality
-- ✅ **Ohm's Law Calculations**: Voltage, Current, Resistance
-- ✅ **Power Calculations**: Multiple power formulas (P = VI, P = I²R, P = V²/R)
-- ✅ **Voltage Divider**: Calculate output voltage for series resistors
-- ✅ **Power from Different Parameters**: Flexible input options
-- ✅ **Series/Parallel Support**: Calculate total resistance and voltage drops
+- **Ohm's Law Calculations**: Voltage, Current, Resistance
+- **Power Calculations**: Multiple power formulas (P = VI, P = I²R, P = V²/R)
+- **Voltage Divider**: Calculate output voltage for series resistors
+- **Power from Different Parameters**: Flexible input options
+- **Series/Parallel Support**: Calculate total resistance and voltage drops
 
 ### User Experience
 - 🎨 **Modern UI**: Clean, responsive web interface with gradient design
