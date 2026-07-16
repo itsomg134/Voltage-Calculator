@@ -17,24 +17,7 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [About The Project](#-about-the-project)
-- [Features](#-features)
-- [Screenshots](#-screenshots)
-- [Getting Started](#-getting-started)
-  - [Web Version](#web-version)
-  - [Python Version](#python-version)
-- [Usage Guide](#-usage-guide)
-- [Formulas Supported](#-formulas-supported)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-- [Acknowledgments](#-acknowledgments)
-
----
-
-## 🎯 About The Project
+## About The Project
 
 The **Voltage Calculator** is a versatile electrical engineering tool designed to simplify complex circuit calculations. Whether you're a student learning Ohm's Law, a hobbyist working on electronics projects, or a professional engineer, this calculator provides instant, accurate results for a wide range of electrical parameters.
 
