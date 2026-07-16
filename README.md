@@ -279,19 +279,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
 Project Link: [https://github.com/yourusername/voltage-calculator](https://github.com/yourusername/voltage-calculator)
-
----
-
-## 🙏 Acknowledgments
-
-- [Ohm's Law](https://en.wikipedia.org/wiki/Ohm%27s_law) - The fundamental principle
-- [Kirchhoff's Circuit Laws](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws) - For voltage divider rules
-- All contributors and users of this project
-
----
-
-<div align="center">
-  Made with ❤️ for the engineering community
-  <br>
-  ⭐ Don't forget to star this repository if you find it useful!
-</div>
